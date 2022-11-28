@@ -1,0 +1,15 @@
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\bin\Debug\net5.0\ECommerceProject.Entities.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\bin\Debug\net5.0\ECommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\bin\Debug\net5.0\ECommerceProject.Entities.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\refint\ECommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ref\ECommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\bin\Debug\net5.0\ECommerceProject.Entities.runtimeconfig.json
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\bin\Debug\net5.0\ECommerceProject.Entities.runtimeconfig.dev.json
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Entities\obj\Debug\net5.0\ECommerceProject.Entities.genruntimeconfig.cache

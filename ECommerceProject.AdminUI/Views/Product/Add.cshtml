@@ -1,0 +1,35 @@
+﻿<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Default form</h4>
+            <form asp-action="Add" asp-controller="Product" method="post">
+                <div class="form-group">
+                    <label for="Name">Name</label>
+                    <input name="Name" type="text" class="form-control" id="Name" placeholder="Name">
+                </div>
+                <div class="form-group">
+                    <label for="Price">Price</label>
+                    <input name="Price" type="number" class="form-control" id="Price" placeholder="Price">
+                </div>
+                <div class="form-group">
+                    <label for="Quantity">Password</label>
+                    <input name="Quantity" type="number" class="form-control" id="Quantity" placeholder="Quantity">
+                </div>
+                <div class="form-group">
+                    <label for="ImageUrl">Image Url</label>
+                    <input name="ImageUrl" type="text" class="form-control" id="ImageUrl" placeholder="ImageUrl">
+                </div>
+                <div class="form-group">
+                    <label for="CategoryID">Category</label>
+                    <input name="CategoryID" type="number" class="form-control" id="CategoryID" placeholder="Category">
+                </div>
+                <div class="form-group">
+                    <label for="CreatedAt">Created_At</label>
+                    <input name="CreatedAt" type="datetime" class="form-control" id="CreatedAt" placeholder="Created At">
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Submit</button>
+                <button class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

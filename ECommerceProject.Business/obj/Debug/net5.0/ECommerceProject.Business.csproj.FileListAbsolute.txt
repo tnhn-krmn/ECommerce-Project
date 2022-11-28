@@ -1,0 +1,17 @@
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.Business.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.Business.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.Business.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.DataAccess.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.Entities.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.DataAccess.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\bin\Debug\net5.0\ECommerceProject.Entities.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.csproj.CopyComplete
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\refint\ECommerceProject.Business.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ECommerceProject.Business.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\ECommerceProject\ECommerceProject\ECommerceProject.Business\obj\Debug\net5.0\ref\ECommerceProject.Business.dll
